@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajuksyy
-- 👀 I’m interested in ... javascript
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ...react
-- 📫 How to reach me ... @ajuksyy on insta
+- 👋 Hi, I’m aju
+- 👀 I’m interested in ... Improving my CS resume
+- 🌱 I’m currently learning ... javascript,html,css,c++,java
+- 💞️ I’m looking to collaborate on ...Simple projects
+- 📫 How to reach me ... @ajuksyy on instagram
 
 <!---
 ajuksyy/ajuksyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
