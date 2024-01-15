@@ -1,7 +1,7 @@
 - 👋 Hi, I’m aju
-- 👀 I’m interested in ... Improving my CS resume
-- 🌱 I’m currently learning ... javascript,html,css,c++,java
-- 💞️ I’m looking to collaborate on ...Simple projects
+- 👀 I’m interested in ... Improving my CS stuff
+- 🌱 I’m currently learning ... some stuff
+- 💞️ I’m looking to collaborate on ...stuff
 - 📫 How to reach me ... @ajuksyy on instagram
 
 <!---
