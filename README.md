@@ -30,6 +30,10 @@
 #### **Networking**
 ![Cisco](https://img.shields.io/badge/Cisco-%23004997.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
+#### **Other Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ---
 
 ### 📫 Let's Connect!
