@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hi, I'm **Ajmal**!</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&width=435&lines=Frontend+Developer+%7C+CS+Student;Passionate+about+AI+%26+Deep+Learning;CCNA+Certified+Network+Associate;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&width=435&lines=Frontend+Developer+%7C+CS+Student;Passionate+about+AI+%26+Deep+Learning;CCNA+Certified+Network+Associate;Lifelong+Learner+%26" alt="Typing SVG" />
 </p>
 
 ---
