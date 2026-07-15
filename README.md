@@ -8,30 +8,15 @@
 <br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img 
-src="https://cdn.simpleicons.org/googlechrome/E2E8F0"
-style="background:#20283a;border-radius:50%;padding:10px;"
-width="42"
-height="42"
-/>
+<img src="https://img.shields.io/badge/Portfolio-20283A?style=flat-square&logo=firefox&logoColor=38BDF8&labelColor=20283A"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
-<img 
-src="https://cdn.simpleicons.org/linkedin/E2E8F0"
-style="background:#20283a;border-radius:50%;padding:10px;"
-width="42"
-height="42"
-/>
+<img src="https://img.shields.io/badge/LinkedIn-20283A?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=20283A"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:ajmalpomp124@gmail.com">
-<img 
-src="https://cdn.simpleicons.org/gmail/E2E8F0"
-style="background:#20283a;border-radius:50%;padding:10px;"
-width="42"
-height="42"
-/>
+<img src="https://img.shields.io/badge/Gmail-20283A?style=flat-square&logo=gmail&logoColor=38BDF8&labelColor=20283A"/>
 </a>
 
 </div>
