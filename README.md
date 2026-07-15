@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://ajuksy.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=firefox"/>
 </a>
 <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
