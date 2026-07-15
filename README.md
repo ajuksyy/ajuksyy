@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer • Mobile Developer • UI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+digital+experiences.;Full-Stack+Web+%26+Mobile+Development.;React+%7C+Next.js+%7C+React+Native.;Creating+beautiful+interfaces+with+motion." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+digital+experiences.;Full-Stack+Web+%26+Mobile+Development.;Creating+clean+and+interactive+interfaces." />
 
 <br>
 
@@ -26,61 +26,35 @@
 
 ## 💫 About Me
 
-I'm a **Computer Science graduate** and **Full-Stack Developer** passionate about building scalable applications with great user experiences.
+I'm a **Computer Science graduate** and **Full-Stack Developer** focused on building scalable web applications, mobile apps, and beautiful user experiences.
 
-I specialize in creating modern web platforms, cross-platform mobile apps, and interactive interfaces while exploring AI and emerging technologies.
-
-Currently working with:
-
-- 🌐 Full-Stack Web Development
-- 📱 React Native & Mobile Applications
-- 🎨 UI Engineering & Motion Design
-- ⚙️ Backend Systems & APIs
-- 🤖 AI-powered Applications
+I enjoy working across the entire development stack — from designing interfaces to building APIs, databases, and production-ready applications.
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+### 💻 Coding
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,python,java,cpp" />
 </p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb,mysql"/>
-</p>
-
-<img src="https://img.shields.io/badge/Strapi-CMS-4945FF?style=for-the-badge&logo=strapi"/>
-<img src="https://img.shields.io/badge/Payload-CMS-black?style=for-the-badge"/>
-
----
 
 ### 🎨 Design & Animation
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer"/>
+<img src="https://skillicons.dev/icons?i=figma,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
----
-
-### 💻 Languages & Tools
+### ⚙️ Tools & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,git,github,docker,vercel,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=strapi" />
 </p>
 
 ---
@@ -97,19 +71,7 @@ Currently working with:
 
 ---
 
-# 🌱 Currently Exploring
-
-- Artificial Intelligence & Deep Learning
-- Large Language Models
-- System Design
-- Cloud Architecture
-- Performance Optimization
-
----
-
 <div align="center">
-
-### 💭 "Great software isn't just built — it's crafted."
 
 <img src="https://komarev.com/ghpvc/?username=ajuksyy&style=for-the-badge&color=blue"/>
 
