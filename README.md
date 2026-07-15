@@ -8,13 +8,30 @@
 <br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=firefox"/>
+<img 
+src="https://cdn.simpleicons.org/googlechrome/E2E8F0"
+style="background:#20283a;border-radius:50%;padding:10px;"
+width="42"
+height="42"
+/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img 
+src="https://cdn.simpleicons.org/linkedin/E2E8F0"
+style="background:#20283a;border-radius:50%;padding:10px;"
+width="42"
+height="42"
+/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:ajmalpomp124@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img 
+src="https://cdn.simpleicons.org/gmail/E2E8F0"
+style="background:#20283a;border-radius:50%;padding:10px;"
+width="42"
+height="42"
+/>
 </a>
 
 </div>
