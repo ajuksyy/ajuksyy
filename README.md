@@ -7,7 +7,6 @@
 
 <br>
 
-<!-- Enhanced Button Links -->
 <div align="center">
   <a href="https://ajuksy.vercel.app/" style="margin: 5px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-1A2235?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=1A2235" />
@@ -40,13 +39,12 @@ I'm a **Computer Science graduate** and **Full-Stack Developer** passionate abou
 ### 🎨 Design & Animation
 <p>
 <img src="https://skillicons.dev/icons?i=figma,tailwind" />
-<img src="https://img.shields.io/badge/Framer-1A2235?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=1A2235" />
+<img src="https://img.shields.io/badge/-Framer-1A2235?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=1A2235" />
 </p>
 
 ### ⚙️ Tools & Backend
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase" />
-<br>
-<img src="https://img.shields.io/badge/PayloadCMS-1A2235?style=for-the-badge&logo=payloadcms&logoColor=white&labelColor=1A2235" />
-<img src="https://img.shields.io/badge/Strapi-1A2235?style=for-the-badge&logo=strapi&logoColor=2F78C4&labelColor=1A2235" />
+<img src="https://img.shields.io/badge/-PayloadCMS-1A2235?style=for-the-badge&logo=payloadcms&logoColor=white&labelColor=1A2235" />
+<img src="https://img.shields.io/badge/-Strapi-1A2235?style=for-the-badge&logo=strapi&logoColor=2F78C4&labelColor=1A2235" />
 </p>
