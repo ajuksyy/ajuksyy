@@ -7,32 +7,18 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img 
-src="https://cdn.simpleicons.org/googlechrome/38BDF8"
-width="20"
-height="20"
-style="background:#1A2235;border:1px solid #2E3A55;border-radius:50%;padding:14px;"
-/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
-<img 
-src="https://cdn.simpleicons.org/linkedin/38BDF8"
-width="20"
-height="20"
-style="background:#1A2235;border:1px solid #2E3A55;border-radius:50%;padding:14px;"
-/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:ajmalpomp124@gmail.com">
-<img 
-src="https://cdn.simpleicons.org/gmail/38BDF8"
-width="20"
-height="20"
-style="background:#1A2235;border:1px solid #2E3A55;border-radius:50%;padding:14px;"
-/>
-</a>
+<!-- Social Links -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://cdn.simpleicons.org/googlechrome/38BDF8" width="30" height="30" style="padding: 12px; background: #1A2235; border: 1px solid #2E3A55; border-radius: 12px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
+    <img src="https://cdn.simpleicons.org/linkedin/38BDF8" width="30" height="30" style="padding: 12px; background: #1A2235; border: 1px solid #2E3A55; border-radius: 12px;" />
+  </a>
+  <a href="mailto:ajmalpomp124@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/38BDF8" width="30" height="30" style="padding: 12px; background: #1A2235; border: 1px solid #2E3A55; border-radius: 12px;" />
+  </a>
+</div>
 
 </div>
 
@@ -48,39 +34,30 @@ I enjoy working across the entire development process — from designing modern 
 
 # 🛠 Tech Stack
 
-## 💻 Coding
+### 💻 Coding
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,python,java,cpp" />
 </p>
 
----
-
-## 🎨 Design & Animation
+### 🎨 Design & Animation
 <p>
 <img src="https://skillicons.dev/icons?i=figma,tailwind" />
-<img 
-src="https://cdn.simpleicons.org/framer"
-style="background:#20283a;border-radius:10px;padding:6px;"
-width="48"
-height="48"
-/>
+<img src="https://cdn.simpleicons.org/framer/0055FF" style="background:#20283a;border-radius:10px;padding:6px; margin-left: 5px;" width="48" height="48" />
+</p>
+
+### ⚙️ Tools & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase" />
+<img src="https://cdn.simpleicons.org/payloadcms/000000" style="background:#20283a;border-radius:10px;padding:6px; margin-left: 5px;" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/strapi/2F78C4" style="background:#20283a;border-radius:10px;padding:6px; margin-left: 5px;" width="48" height="48" />
 </p>
 
 ---
 
-## ⚙️ Tools & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase" />
-<img 
-src="https://cdn.simpleicons.org/payloadcms"
-style="background:#20283a;border-radius:10px;padding:6px;"
-width="48"
-height="48"
-/>
-<img 
-src="https://cdn.simpleicons.org/strapi"
-style="background:#20283a;border-radius:10px;padding:6px;"
-width="48"
-height="48"
-/>
-</p>
+# 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=onedark&hide_border=true" />
+</div>
+
+---
