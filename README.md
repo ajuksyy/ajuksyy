@@ -7,16 +7,16 @@
 
 <br>
 
-<!-- Social Links -->
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://cdn.simpleicons.org/googlechrome/38BDF8" width="30" height="30" style="padding: 12px; background: #1A2235; border: 1px solid #2E3A55; border-radius: 12px;" />
+<!-- Enhanced Button Links -->
+<div align="center">
+  <a href="https://ajuksy.vercel.app/" style="margin: 5px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-1A2235?style=for-the-badge&logo=googlechrome&logoColor=38BDF8&labelColor=1A2235" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
-    <img src="https://cdn.simpleicons.org/linkedin/38BDF8" width="30" height="30" style="padding: 12px; background: #1A2235; border: 1px solid #2E3A55; border-radius: 12px;" />
+  <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/" style="margin: 5px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-1A2235?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=1A2235" />
   </a>
-  <a href="mailto:ajmalpomp124@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/38BDF8" width="30" height="30" style="padding: 12px; background: #1A2235; border: 1px solid #2E3A55; border-radius: 12px;" />
+  <a href="mailto:ajmalpomp124@gmail.com" style="margin: 5px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-1A2235?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=1A2235" />
   </a>
 </div>
 
@@ -27,8 +27,6 @@
 # 💫 About Me
 
 I'm a **Computer Science graduate** and **Full-Stack Developer** passionate about building scalable applications and creating meaningful user experiences.
-
-I enjoy working across the entire development process — from designing modern interfaces to building backend systems, APIs, databases, and cross-platform mobile applications.
 
 ---
 
@@ -42,22 +40,13 @@ I enjoy working across the entire development process — from designing modern 
 ### 🎨 Design & Animation
 <p>
 <img src="https://skillicons.dev/icons?i=figma,tailwind" />
-<img src="https://cdn.simpleicons.org/framer/0055FF" style="background:#20283a;border-radius:10px;padding:6px; margin-left: 5px;" width="48" height="48" />
+<img src="https://img.shields.io/badge/Framer-1A2235?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=1A2235" />
 </p>
 
 ### ⚙️ Tools & Backend
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase" />
-<img src="https://cdn.simpleicons.org/payloadcms/000000" style="background:#20283a;border-radius:10px;padding:6px; margin-left: 5px;" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/strapi/2F78C4" style="background:#20283a;border-radius:10px;padding:6px; margin-left: 5px;" width="48" height="48" />
+<br>
+<img src="https://img.shields.io/badge/PayloadCMS-1A2235?style=for-the-badge&logo=payloadcms&logoColor=white&labelColor=1A2235" />
+<img src="https://img.shields.io/badge/Strapi-1A2235?style=for-the-badge&logo=strapi&logoColor=2F78C4&labelColor=1A2235" />
 </p>
-
----
-
-# 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=onedark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=onedark&hide_border=true" />
-</div>
-
----
