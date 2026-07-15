@@ -25,35 +25,36 @@
 
 </div>
 
+
 ---
 
 # 💫 About Me
 
 I'm a **Computer Science graduate** and **Full-Stack Developer** passionate about building scalable applications, interactive interfaces, and meaningful digital experiences.
 
-I specialize in modern web technologies, mobile development, backend systems, and creating smooth user experiences with clean UI engineering.
+I specialize in modern web technologies, backend systems, mobile applications, and creating smooth user experiences with clean UI engineering.
+
 
 ---
 
 # 🛠 Tech Stack
 
+
 ### 💻 Coding
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,python,java,cpp" />
-</p>
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,reactnative,expo,python,java,cpp" />
+
+</div>
 
 
-### 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=reactnative,expo" />
-</p>
+<br>
 
 
 ### 🎨 Design & Animation
 
-<p>
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
 
 <img src="https://skillicons.dev/icons?i=figma,tailwind" />
 
@@ -71,12 +72,15 @@ height="48"
 style="border-radius:12px;background:#1A2235;padding:8px;"
 />
 
-</p>
+</div>
+
+
+<br>
 
 
 ### ⚙️ Tools & Backend
 
-<p>
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase" />
 
@@ -94,7 +98,8 @@ height="48"
 style="border-radius:12px;background:#1A2235;padding:8px;"
 />
 
-</p>
+</div>
+
 
 ---
 
@@ -102,10 +107,12 @@ style="border-radius:12px;background:#1A2235;padding:8px;"
 
 - Full-stack web applications
 - Responsive and interactive user interfaces
-- Mobile applications with React Native & Expo
-- REST APIs and backend systems
+- Mobile applications using React Native & Expo
+- REST APIs and backend services
 - CMS-powered websites
-- Scalable database-driven applications
+- Database-driven scalable applications
+- Modern animations and interactive experiences
+
 
 ---
 
@@ -118,6 +125,7 @@ style="border-radius:12px;background:#1A2235;padding:8px;"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajuksy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8" />
 
 </div>
+
 
 ---
 
