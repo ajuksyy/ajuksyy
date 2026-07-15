@@ -1,58 +1,308 @@
-### <div align="center">👋 Hi, I'm **Ajmal**!</div>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&width=435&lines=Frontend+Developer+%7C+CS+Student;Passionate+about+AI+%26+Deep+Learning;CCNA+Certified+Network+Associate;Lifelong+Learner+%26" alt="Typing SVG" />
+# 👋 Hey, I'm Mohamed Ajmal Ahmed
+
+### 🚀 Full-Stack Developer • Mobile App Developer • UI Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+beautiful+digital+experiences.;Full-Stack+Developer.;React+%7C+Next.js+%7C+React+Native.;Animations+with+GSAP+%26+Framer+Motion.;Always+learning+something+new." />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ajuksyy)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Computer Science graduate** and **Full-Stack Developer** passionate about creating fast, modern, and user-focused applications.
+
+I enjoy turning complex ideas into intuitive digital products—from polished web experiences to scalable backend systems and cross-platform mobile applications.
+
+Currently focusing on:
+
+- ⚡ Full-Stack Web Development
+- 📱 Cross-platform Mobile Development
+- 🎨 Beautiful UI/UX & Motion Design
+- 🚀 High-performance applications
+- 🤖 AI-powered applications
+- ☁️ Modern cloud-ready architectures
+
+---
+
+# 🛠 Tech Arsenal
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+
+</p>
+
+### UI & Animation
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 🔥 About Me
-- 💻 **Frontend Developer** – Crafting responsive and interactive web applications.
-- 🤖 **AI & Deep Learning Enthusiast** – Recently completed a deep learning project and eager to explore more.
-- 🌐 **CCNA Certified** – Strong foundation in networking.
-- 🎯 **Future Goals** – Advancing in AI and working on cutting-edge projects.
+## 📱 Mobile Development
 
----
+<p>
 
-### 🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=react" />
 
-#### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-#### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![dlib](https://img.shields.io/badge/dlib-%2300B5E2.svg?style=for-the-badge&logo=dlib&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23000000.svg?style=for-the-badge&logo=cmake&logoColor=white)
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo"/>
 
-#### **Networking**
-![Cisco](https://img.shields.io/badge/Cisco-%23004997.svg?style=for-the-badge&logo=cisco&logoColor=white)
-
-#### **Other Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-### 📫 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ajuksyy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.facebook.com/share/1C25gVfGeQ/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/ajuksyy/?igsh=Yml4eGI0bnV2eGw5#" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/kentuckyfriedplacenta" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-  </a>
 </p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+
+<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi"/>
+
+<img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+</p>
+
+---
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp,c" />
+
+</p>
+
+---
+
+## ☁️ Tools & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,firebase,docker,vscode" />
+
+</p>
+
+---
+
+# 🚀 What I Build
+
+✨ Responsive Websites
+
+📱 Mobile Applications
+
+⚙ REST APIs
+
+🎨 Interactive Landing Pages
+
+🛒 SaaS Platforms
+
+💳 Payment Integrations
+
+📊 Dashboards
+
+🧩 CMS-powered Websites
+
+🌍 Portfolio Websites
+
+⚡ Business Solutions
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Deep Learning
+- Large Language Models
+- Cloud Infrastructure
+- System Design
+- Performance Optimization
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajuksyy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuksyy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ajuksyy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajuksyy&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajuksyy&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💼 Featured Technologies
+
+<table>
+
+<tr>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/react"/>
+<br>
+React
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/nextdotjs"/>
+<br>
+Next.js
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/postgresql"/>
+<br>
+PostgreSQL
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/mongodb"/>
+<br>
+MongoDB
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/laravel"/>
+<br>
+Laravel
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/typescript"/>
+<br>
+TypeScript
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/tailwindcss"/>
+<br>
+Tailwind
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/strapi"/>
+<br>
+Strapi
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/framer"/>
+<br>
+Framer
+</td>
+
+<td align="center">
+<img width="50" src="https://cdn.simpleicons.org/javascript"/>
+<br>
+JavaScript
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ajuksyy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/ajuksyy">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/share/1C25gVfGeQ/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💭 *"Great software isn't just built — it's crafted."*
+
+<img src="https://komarev.com/ghpvc/?username=ajuksyy&style=for-the-badge&color=blue"/>
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
