@@ -7,14 +7,14 @@
 
 <br>
 
-<a href="https://ajuksy.vercel.app/">
+<a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=firefox"/>
 </a>
 <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/ajuksyy">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:ajmalpomp124@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
