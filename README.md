@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 </div>
----
  
 # 💫 About Me
  
@@ -22,7 +21,6 @@ I'm a **Computer Science graduate** and **Full-Stack Developer** passionate abou
  
 I enjoy working across the entire development process — from designing modern interfaces to building backend systems, APIs, databases, and cross-platform mobile applications.
  
----
  
 # 🛠 Tech Stack
  
@@ -30,7 +28,6 @@ I enjoy working across the entire development process — from designing modern 
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,python,java,cpp" />
 </p>
----
  
 ## 🎨 Design & Animation
 <p>
@@ -48,7 +45,6 @@ width="48"
 height="48"
 />
 </p>
----
  
 ## ⚙️ Tools & Backend
 <p>
@@ -66,8 +62,8 @@ width="48"
 height="48"
 />
 </p>
----
- 
+
+
 # 🤝 Let's Connect
  
 <div align="center">
