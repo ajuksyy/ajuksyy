@@ -12,7 +12,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
-<img src="https://img.shields.io/badge/-LinkedIn-20283A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/-LinkedIn-20283A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="mailto:ajmalpomp124@gmail.com">
