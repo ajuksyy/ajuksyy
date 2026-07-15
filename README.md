@@ -19,7 +19,7 @@
 
 </div>
 
-
+---
 
 # 💫 About Me
 
@@ -27,6 +27,7 @@ I'm a **Computer Science graduate** and **Full-Stack Developer** passionate abou
 
 I enjoy working across the entire development process — from designing modern interfaces to building backend systems, APIs, databases, and cross-platform mobile applications.
 
+---
 
 # 🛠 Tech Stack
 
@@ -35,16 +36,11 @@ I enjoy working across the entire development process — from designing modern 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,python,java,cpp" />
 </p>
 
+---
 
 ## 🎨 Design & Animation
 <p>
 <img src="https://skillicons.dev/icons?i=figma,tailwind" />
-<img 
-src="https://cdn.simpleicons.org/greensock/88CE02"
-style="background:#20283a;border-radius:10px;padding:6px;"
-width="48"
-height="48"
-/>
 <img 
 src="https://cdn.simpleicons.org/framer"
 style="background:#20283a;border-radius:10px;padding:6px;"
@@ -53,6 +49,7 @@ height="48"
 />
 </p>
 
+---
 
 ## ⚙️ Tools & Backend
 <p>
@@ -71,6 +68,7 @@ height="48"
 />
 </p>
 
+---
 
 # 📊 GitHub Stats
 
@@ -79,20 +77,9 @@ height="48"
 <img src="https://github-readme-stats.vercel.app/api?username=ajuksyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajuksyy&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuksyy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 </div>
 
-
-
-# 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ajuksyy/ajuksyy/output/github-contribution-grid-snake.svg" width="100%"/>
-<sub>⚡ Auto-generated from my daily contributions — check the setup note below if it hasn't rendered yet.</sub>
-</div>
-
-
+---
 
 # 🤝 Let's Connect
 
