@@ -26,9 +26,9 @@
 
 ## 💫 About Me
 
-I'm a **Computer Science graduate** and **Full-Stack Developer** focused on building scalable web applications, mobile apps, and beautiful user experiences.
+I'm a **Computer Science graduate** and **Full-Stack Developer** passionate about creating scalable applications and meaningful user experiences.
 
-I enjoy working across the entire development stack — from designing interfaces to building APIs, databases, and production-ready applications.
+I work across the full development cycle — designing interfaces, building APIs, managing databases, and creating modern web and mobile applications.
 
 ---
 
@@ -37,7 +37,7 @@ I enjoy working across the entire development stack — from designing interface
 ### 💻 Coding
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,laravel,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,laravel,python,java,cpp" />
 </p>
 
 ### 🎨 Design & Animation
@@ -55,24 +55,25 @@ I enjoy working across the entire development stack — from designing interface
 
 <p>
 <img src="https://skillicons.dev/icons?i=strapi" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ajuksyy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuksyy&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge" />
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ajuksyy&style=for-the-badge&color=blue"/>
+### 🤝 Let's Connect
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-ajmal-5abb432b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ajuksyy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
