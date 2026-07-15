@@ -24,11 +24,9 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-I'm a **Computer Science graduate** and **Full-Stack Developer** passionate about building scalable applications and creating meaningful user experiences.
-
-I enjoy working across the entire development stack — from designing beautiful interfaces to building backend systems, APIs, databases, and cross-platform mobile applications.
+I'm a **Computer Science graduate** and **Full-Stack Developer** passionate about building scalable applications and creating meaningful user experiences. I enjoy working across the entire development process — from designing modern interfaces to building systems APIs, databases, and cross-platform mobile applications.
 
 ---
 
@@ -46,12 +44,11 @@ I enjoy working across the entire development stack — from designing beautiful
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=figma,tailwind,vite" />
-
-<img src="https://skillicons.dev/icons?i=framer" />
+<img src="https://skillicons.dev/icons?i=figma,tailwind,framer" />
 
 <img 
-src="https://cdn.simpleicons.org/greensock/88CE02" 
+src="https://cdn.simpleicons.org/greensock"
+style="background:#20283a;border-radius:10px;padding:6px;"
 width="48"
 height="48"
 />
@@ -64,16 +61,11 @@ height="48"
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase" />
-
-</p>
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=strapi" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,docker,vercel,firebase,strapi" />
 
 <img 
-src="https://raw.githubusercontent.com/payloadcms/payload/main/packages/ui/src/assets/logo.svg"
+src="https://cdn.simpleicons.org/payloadcms"
+style="background:#20283a;border-radius:10px;padding:6px;"
 width="48"
 height="48"
 />
@@ -82,9 +74,9 @@ height="48"
 
 ---
 
-<div align="center">
+# 🤝 Let's Connect
 
-## 🤝 Let's Connect
+<div align="center">
 
 <a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
