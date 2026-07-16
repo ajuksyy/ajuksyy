@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer • UI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+digital+experiences.;Full-Stack+Web+Development.;React+Native+%26+Expo+Applications.;Creating+clean+interactive+user+experiences." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+digital+experiences.;Full-Stack+Web+Development.;React+Native+%26+Expo+Applications.;Creating+clean+and+interactive+interfaces." />
 
 <br>
 
@@ -26,61 +26,61 @@
 
 # 💫 About Me
 
-I'm a **Computer Science Graduate** and **Full-Stack Developer** passionate about building scalable applications, modern user interfaces, and meaningful digital experiences.
+I'm a **Computer Science Graduate** and **Full-Stack Developer** passionate about building scalable applications, interactive interfaces, and meaningful digital experiences.
 
-I enjoy turning ideas into polished products using modern technologies across the web, backend, and mobile ecosystem.
+I specialize in modern web development, backend systems, mobile applications, and creating smooth user experiences through clean UI engineering.
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages & Frameworks
+## 💻 Coding
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/TypeScript-1A2235?style=for-the-badge&logo=typescript&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/JavaScript-1A2235?style=for-the-badge&logo=javascript&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/React-1A2235?style=for-the-badge&logo=react&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Next.js-1A2235?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Node.js-1A2235?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Laravel-1A2235?style=for-the-badge&logo=laravel&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/React_Native-1A2235?style=for-the-badge&logo=react&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Expo-1A2235?style=for-the-badge&logo=expo&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Python-1A2235?style=for-the-badge&logo=python&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Java-1A2235?style=for-the-badge&logo=openjdk&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/C++-1A2235?style=for-the-badge&logo=cplusplus&logoColor=38BDF8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
 
 </p>
 
----
+<br>
 
 ## 🎨 Design & Animation
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Figma-1A2235?style=for-the-badge&logo=figma&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-1A2235?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Framer-1A2235?style=for-the-badge&logo=framer&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/GSAP-1A2235?style=for-the-badge&logo=greensock&logoColor=38BDF8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="48"/>
 
 </p>
 
----
+<br>
 
 ## ⚙️ Backend & Tools
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/PostgreSQL-1A2235?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/MySQL-1A2235?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/MongoDB-1A2235?style=for-the-badge&logo=mongodb&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Firebase-1A2235?style=for-the-badge&logo=firebase&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Payload_CMS-1A2235?style=for-the-badge&logo=payloadcms&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Strapi-1A2235?style=for-the-badge&logo=strapi&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Docker-1A2235?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Git-1A2235?style=for-the-badge&logo=git&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/GitHub-1A2235?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Vercel-1A2235?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
+
+<img src="https://cdn.simpleicons.org/payloadcms/38BDF8" width="48"/>
+<img src="https://cdn.simpleicons.org/strapi/38BDF8" width="48"/>
 
 </p>
 
@@ -88,13 +88,13 @@ I enjoy turning ideas into polished products using modern technologies across th
 
 # 🚀 What I Build
 
-- 🌐 Full-Stack Web Applications
-- 📱 React Native & Expo Mobile Apps
-- 🎨 Interactive UI/UX Experiences
-- ⚡ REST APIs & Backend Services
-- 🗄 Database Driven Applications
-- 📝 CMS Powered Websites
-- ✨ Modern Animations using GSAP & Framer Motion
+- 🌐 Full-stack web applications
+- 📱 React Native & Expo mobile applications
+- 🎨 Modern UI/UX experiences
+- ⚡ REST APIs and backend systems
+- 🗄 Database-driven scalable applications
+- 📝 CMS-powered websites
+- ✨ Interactive animations and experiences
 
 ---
 
@@ -106,18 +106,16 @@ I enjoy turning ideas into polished products using modern technologies across th
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajuksy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8"/>
 
-<br><br>
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajuksy&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### 💙 Thanks for visiting my profile!
 
-*"Building beautiful experiences, one commit at a time."*
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ajuksy&color=38BDF8&style=for-the-badge"/>
 
 </div>
