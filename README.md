@@ -44,7 +44,6 @@ I specialize in modern web development, backend systems, mobile applications, an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
@@ -59,8 +58,9 @@ I specialize in modern web development, backend systems, mobile applications, an
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="48"/>
+
+<img src="https://cdn.simpleicons.org/framer/38BDF8" width="48"/>
+<img src="https://cdn.simpleicons.org/greensock/38BDF8" width="48"/>
 
 </p>
 
@@ -95,27 +95,3 @@ I specialize in modern web development, backend systems, mobile applications, an
 - 🗄 Database-driven scalable applications
 - 📝 CMS-powered websites
 - ✨ Interactive animations and experiences
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajuksy&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajuksy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ajuksy&color=38BDF8&style=for-the-badge"/>
-
-</div>
